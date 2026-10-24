@@ -1,0 +1,4 @@
+firestore-key.json
+service-account*.json
+*.pem
+.env
