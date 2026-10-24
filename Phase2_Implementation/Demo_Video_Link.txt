@@ -1,1 +1,5 @@
+FireBase demonstration:
 https://youtu.be/d9fYIXjmBAg
+
+SQL Part:
+https://youtu.be/vD8cS0NSCAg
